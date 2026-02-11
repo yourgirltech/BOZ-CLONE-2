@@ -889,7 +889,7 @@ li {
     display: grid;
     justify-content: center;
       margin-top: 10px;
-      margin-bottom: 30px;
+      margin-bottom: 10px;
       position: relative;
       text-align: center;
 }
@@ -915,7 +915,7 @@ li {
   font-size: 1.5rem;
   padding-top: 20px;
   letter-spacing: 2px;
-  padding-bottom: 50px;
+  padding-bottom: 20px;
   padding-left: 30px;
 }
 
@@ -931,13 +931,13 @@ li {
     font-family: "Gravitas One", serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 45px;
+  font-size: 40px;
   letter-spacing: 2px;
 }
 
 .sub-category ul li{
     
-    padding:15px;
+    padding:5px;
 }
 
 .display-grid{
